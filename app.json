@@ -1,0 +1,12 @@
+{
+  "latestVersion": "01.0.0",
+  "minVersion": "01.0.0",
+  "appExeName": "HistNesting.exe",
+  "updaterExeName": "Updater.exe",
+  "updateUrl": "https://github.com/tuner365/HistNesting_Update/releases/download/v01.0.0/HistNesting_V01.zip",
+  "askBeforeUpdate": false,
+  "requireInternet": true,
+  "passwordRevision": 1,
+  "passwordHash": "",
+  "message": "HistNesting V01"
+}
