@@ -1,6 +1,6 @@
 {
   "latestVersion": "03.0.0",
-  "minVersion": "02.0.0",
+  "minVersion": "01.0.0",
   "appExeName": "HistNesting.exe",
   "updaterExeName": "Updater.exe",
   "updateUrl": "https://github.com/tuner365/HistNesting_Update/releases/download/v02.0.0/HistNesting_V03.zip",
