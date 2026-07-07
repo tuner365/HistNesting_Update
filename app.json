@@ -1,13 +1,13 @@
 {
-  "latestVersion": "03.0.0",
+  "latestVersion": "02.0.0",
   "minVersion": "01.0.0",
   "appExeName": "HistNesting.exe",
   "updaterExeName": "Updater.exe",
-  "updateUrl": "https://github.com/tuner365/HistNesting_Update/releases/download/v03.0.0/HistNesting_V03.zip",
+  "updateUrl": "https://github.com/tuner365/HistNesting_Update/releases/download/v02.0.0/HistNesting_V02.zip",
   "askBeforeUpdate": false,
   "requireInternet": true,
   "requirePassword": true,
   "passwordRevision": 2,
   "passwordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
-  "message": "HistNesting V03 - 형강 본길이 체크값만 적용"
+  "message": "HistNesting V02"
 }
